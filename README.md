@@ -19,7 +19,7 @@ The site is a static Astro build. The production build is `dist/`, and the Cloud
 
 The workflow in `.github/workflows/deploy-pages.yml` is ready for a repository named `Alex129xx.github.io`. GitHub requires that exact repository name for the user site. Copy the contents of this directory into that repository, enable Pages with **GitHub Actions**, and push to `main`.
 
-The same source can be connected to Cloudflare Pages. Keep the Cloudflare project as the primary public URL when a custom domain is added; update `site` in `astro.config.mjs` when that canonical URL is known.
+The same source is also deployed to Cloudflare Pages at https://alex129xx-github-io.pages.dev. The Cloudflare URL is the primary public URL; GitHub Pages remains available as a mirror at https://alex129xx.github.io.
 
 ## Public-data boundary
 
