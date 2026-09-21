@@ -5,7 +5,9 @@ export const profile = {
   intro:
     '上海交通大学航空航天学院信息与控制专业硕士研究生，关注航空航天任务规划、强化学习、端侧 AI 推理与嵌入式系统。',
   email: 'alexdjxyz@gmail.com',
-  github: 'https://github.com/Alex129xx'
+  github: 'https://github.com/Alex129xx',
+  website: 'https://alex129xxdu.pages.dev',
+  linkedin: 'https://linkedin.com/in/alexxiaowendu'
 };
 
 export const education = [
