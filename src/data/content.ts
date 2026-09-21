@@ -7,7 +7,7 @@ export const profile = {
   email: 'alexdjxyz@gmail.com',
   github: 'https://github.com/Alex129xx',
   website: 'https://alex129xxdu.pages.dev',
-  linkedin: 'https://linkedin.com/in/alexxiaowendu'
+  linkedin: 'https://www.linkedin.com/in/alexxiaowendu/'
 };
 
 export const education = [

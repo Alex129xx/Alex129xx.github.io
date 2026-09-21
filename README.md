@@ -21,7 +21,7 @@ The workflow in `.github/workflows/deploy-pages.yml` is ready for a repository n
 
 The same source is also deployed to Cloudflare Pages at https://alex129xxdu.pages.dev. The Cloudflare URL is the primary public URL; GitHub Pages remains available as a mirror at https://alex129xx.github.io.
 
-The public contact links are the personal site, GitHub, and LinkedIn profile at https://linkedin.com/in/alexxiaowendu.
+The public contact links are the personal site, GitHub, and LinkedIn profile at https://www.linkedin.com/in/alexxiaowendu/.
 
 ## Public-data boundary
 
