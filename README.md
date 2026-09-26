@@ -4,8 +4,10 @@ This is the first Chinese-language personal site assembled from the reviewed `da
 
 ## Local preview
 
+Use Node.js 20. After checking out the parent repository, run `git submodule update --init --recursive` from its root before working here.
+
 ```bash
-npm install
+npm ci
 npm run dev
 ```
 
